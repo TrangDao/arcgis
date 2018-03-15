@@ -1,0 +1,7 @@
++ investigation: 0.5h
++ development:
+    - show map view and search: 1.5h
+    - zoom to current location: 0.5h
+    - test and fix simple cases (check network, permission...): 0.5h
++ deployment: no
+
